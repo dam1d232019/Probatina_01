@@ -1,4 +1,8 @@
 22222222222222222222222222222222222222222
+<<<<<<< HEAD
 cambia el contenido de dos.txt
 modifica otra vez dos.txt
 cuarta modificacion
+=======
+cambia el contenido de dos.txt
+>>>>>>> parent of 5a91578... Tercer commit
